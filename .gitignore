@@ -1,0 +1,5 @@
+private_key
+password
+ganache_db
+.*
+!.gitignore
